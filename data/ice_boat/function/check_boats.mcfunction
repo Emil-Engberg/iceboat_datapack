@@ -1,0 +1,12 @@
+execute as @e[type=#minecraft:boat] at @s if block ~ ~-0.1 ~ #minecraft:ice run kill @s
+execute as @e[type=minecraft:oak_chest_boat] at @s if block ~ ~-0.1 ~ #minecraft:ice run kill @s
+execute as @e[type=minecraft:spruce_chest_boat] at @s if block ~ ~-0.1 ~ #minecraft:ice run kill @s
+execute as @e[type=minecraft:birch_chest_boat] at @s if block ~ ~-0.1 ~ #minecraft:ice run kill @s
+execute as @e[type=minecraft:jungle_chest_boat] at @s if block ~ ~-0.1 ~ #minecraft:ice run kill @s
+execute as @e[type=minecraft:acacia_chest_boat] at @s if block ~ ~-0.1 ~ #minecraft:ice run kill @s
+execute as @e[type=minecraft:mangrove_chest_boat] at @s if block ~ ~-0.1 ~ #minecraft:ice run kill @s
+execute as @e[type=minecraft:cherry_chest_boat] at @s if block ~ ~-0.1 ~ #minecraft:ice run kill @s
+execute as @e[type=minecraft:bamboo_chest_raft] at @s if block ~ ~-0.1 ~ #minecraft:ice run kill @s
+execute as @e[type=minecraft:pale_oak_chest_boat] at @s if block ~ ~-0.1 ~ #minecraft:ice run kill @s
+execute as @e[type=minecraft:pale_oak_chest_boat] at @s if block ~ ~-0.1 ~ #minecraft:ice run kill @s
+execute as @e[type=minecraft:poplar_chest_boat] at @s if block ~ ~-0.1 ~ #minecraft:ice run kill @s
